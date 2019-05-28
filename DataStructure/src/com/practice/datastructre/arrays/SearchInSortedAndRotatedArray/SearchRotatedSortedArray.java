@@ -1,6 +1,8 @@
-package com.practice.datastructre.array;
+package com.practice.datastructre.arrays.SearchInSortedAndRotatedArray;
 
 import java.util.Scanner;
+
+import com.practice.datastructre.array.rotation.Reversal.ArrayRotation;
 
 public class SearchRotatedSortedArray {
 

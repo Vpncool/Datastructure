@@ -1,4 +1,4 @@
-package com.practice.datastructre.array;
+package com.practice.datastructre.array.rotation.Reversal;
 
 public class ArrayRotation {
 
