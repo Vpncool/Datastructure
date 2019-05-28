@@ -1,4 +1,4 @@
-package com.practice.datastructre.arrays.SearchInSortedAndRotatedArray;
+package com.practice.datastructre.array.SearchInSortedAndRotatedArray;
 
 import java.util.Scanner;
 
