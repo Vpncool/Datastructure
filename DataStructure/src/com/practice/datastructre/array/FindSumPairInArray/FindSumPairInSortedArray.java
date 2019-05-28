@@ -1,4 +1,4 @@
-package com.practice.datastructre.arrays.FindSumPairInSortedArray;
+package com.practice.datastructre.array.FindSumPairInArray;
 
 import java.util.Scanner;
 /**
