@@ -3,8 +3,8 @@ package com.practice.datastructre.array.sort.MergeSort;
 import java.util.Arrays;
 import java.util.Scanner;
 /**
+ * <p>Both the array should be sorted
  * @author Vipin Suman
- * Both the array should be sorted
  * */
 public class MergeTwoSortedArray {
 
