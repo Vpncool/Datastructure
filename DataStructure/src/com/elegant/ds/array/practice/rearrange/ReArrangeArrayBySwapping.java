@@ -33,7 +33,7 @@ public class ReArrangeArrayBySwapping {
 		for (int i = 0; i < array.length; i++) {
 			while (true) {
 				if (array[i] >= 0 && array[i] != i) {
-					// swap i and arr[i]
+					// swap i and arr[i] assume index
 					int temp = array[i];
 					array[i] = array[temp];
 					array[temp] = temp;
